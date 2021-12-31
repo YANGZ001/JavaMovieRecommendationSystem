@@ -144,7 +144,6 @@ public class RecommendationRunner implements Recommender{
             rank++;
         }
         System.out.println("</table>");
-        System.out.println("<h3>*The rank of movies is based on other raters who have the most similar rating to yours. Enjoy!^^</h3>");
     }
 
         public static void main(String[] args) {
